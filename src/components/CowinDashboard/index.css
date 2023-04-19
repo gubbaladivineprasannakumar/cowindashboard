@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.cowin-dash-board-container {
+  background-color: #161625;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 70px;
+}
+
+.website-logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.website-logo {
+  height: 50px;
+  width: 50px;
+}
+.website-heading {
+  color: #2cc6c6;
+}
+h1 {
+  color: #cbd5e1;
+}
